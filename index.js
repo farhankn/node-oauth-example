@@ -39,4 +39,4 @@ app.get('/oauth/redirect', (req, res) => {
 })
 
 // Start the server on port 8080
-app.listen(8080)
+app.listen(80)
