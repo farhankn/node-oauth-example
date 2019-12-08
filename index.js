@@ -6,8 +6,8 @@ const axios = require('axios')
 
 // This is the client ID and client secret that you obtained
 // while registering the application
-const clientID = '<your client id>'
-const clientSecret = '<your client secret>'
+const clientID = 'ba6c00cbf4da05af19c7'
+const clientSecret = '6781f329db19664d7dd68b58877ec12c74afafcf'
 
 // Create a new express application and use
 // the express static middleware, to serve all files
